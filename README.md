@@ -1,5 +1,5 @@
 # Digging-Jim-REMAKE---Beginner-Cave-Pack
-Copy the entire file and save as .txt
+Copy the file below into Notepad and save as .txt
 
 @digjimRE3cave
 0.9
